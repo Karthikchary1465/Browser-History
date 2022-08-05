@@ -2,7 +2,7 @@ import {Component} from 'react'
 
 import './index.css'
 
-import '../HistoryItem'
+import HistoryItem from '../HistoryItem'
 
 class BrowserHistory extends Component {
   state = {
